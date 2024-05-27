@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fadil-rafeek/reversiiiiii/static/css/main.e6c13ad2.css",
+    "main.js": "/fadil-rafeek/reversiiiiii/static/js/main.901a0c1f.js",
+    "static/js/453.5d8f8849.chunk.js": "/fadil-rafeek/reversiiiiii/static/js/453.5d8f8849.chunk.js",
+    "index.html": "/fadil-rafeek/reversiiiiii/index.html",
+    "main.e6c13ad2.css.map": "/fadil-rafeek/reversiiiiii/static/css/main.e6c13ad2.css.map",
+    "main.901a0c1f.js.map": "/fadil-rafeek/reversiiiiii/static/js/main.901a0c1f.js.map",
+    "453.5d8f8849.chunk.js.map": "/fadil-rafeek/reversiiiiii/static/js/453.5d8f8849.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.901a0c1f.js"
+  ]
+}
